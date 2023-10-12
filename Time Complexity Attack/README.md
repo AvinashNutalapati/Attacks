@@ -44,10 +44,6 @@ The script follows these steps:
 - The server and endpoints are hardcoded in the script, so you'll need to modify the URLs, parameters, and data to suit your target server.
 - Ensure you have necessary permissions to interact with the target server to prevent legal issues. Unauthorized access to computer systems is illegal and punishable by law.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Made with ❤️ and Python.
